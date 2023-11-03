@@ -55,14 +55,13 @@ body {
     color: #000000;
     background-color: #FA0C6F;
 }
-
 /*dropdown*/
 .dropdown {
     position: relative;
     display:inline-block;
     
 }
-/*dropdown*/
+
 .dropdown-content {
     display: none;
     position: absolute;
